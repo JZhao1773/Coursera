@@ -1,0 +1,28 @@
+.navbar-brand{
+    text-align: left;
+    font-size: 1.5em;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+
+#ck {
+    background-color: beige;
+}
+#bf{
+    background-color: bisque
+}
+#su{
+    background-color: aqua;
+}
+
+.food {
+    background-color: aliceblue;
+    height:1000px;
+    margin: 10px;
+}
+
+.lis {
+    font-size: 1.2em;
+    text-align: center;
+}
